@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Changa-SemiBold
+font link: https://www.fontsquirrel.com/fonts/changa
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+
+
+icon designer: Viktor Fedyuk (Tim P)
+icon designer link: /feel_urban
+        
+{"bg":"transparent","icon-gradient-0":"#177775","icon-gradient-1":"#28D2BF","font":"#000000","slogan":"#141414"}
+      

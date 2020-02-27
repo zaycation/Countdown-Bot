@@ -1,0 +1,8 @@
+{
+    "name": "countdown",
+    "version": "1.0.0",
+    "description": "A unique discord bot that can effectively used to set timers for anything in your server!",
+    "main": "content.js",
+    "author": "zaycation.dev",
+    "dependencies": {}
+}
